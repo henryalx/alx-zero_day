@@ -1,2 +1,7 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "The school is open!"
+=======
+The school is open!
+update_script
+>>>>>>> dee9e3a315d07aa33fbff464d1203d1fb3a3c3e8
